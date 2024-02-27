@@ -11,5 +11,14 @@
   "type": "module",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "readline-sync": "github:anseki/readline-sync"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
