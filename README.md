@@ -7,3 +7,4 @@
 <a href="https://asciinema.org/a/tGbE7833i1zOJnlYJI8jOve0N"></a> - brain-calc
 <a href="https://asciinema.org/a/obeA12iA17KkUhnXXfuexDuDK"></a> - brain-gcd
 <a href="https://asciinema.org/a/o8FNp7yqerZQR2BTgpmT0zJVK"></a> - brain-progression
+<a href="https://asciinema.org/a/6CDE2NdXT0Ct711nZrBfu14Eu"></a> - brain-prime

@@ -7,7 +7,7 @@ const gameEven = () => {
   const questionNum = [];
   const correctAnswer = [];
   for (let j = 0; j < 3; j += 1) {
-    questionNum.push(Math.floor(Math.random() * 101));
+    questionNum.push(Math.floor((Math.random() * 100) + 1));
     correctAnswer.push(questionNum[j] % 2 === 0 ? 'yes' : 'no');
   }
   answerCheck(name, questionNum, correctAnswer);
