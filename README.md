@@ -3,6 +3,7 @@
 <a href="https://codeclimate.com/github/Demafogotto/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/8db8399deedd1905503c/maintainability" /></a>
 
 **Демо игр:**
+
 [brain-even](https://asciinema.org/a/kSBg0JDcUdy3HatpSJ7MGqfpt)
 
 [brain-calc](https://asciinema.org/a/tGbE7833i1zOJnlYJI8jOve0N)
