@@ -5,3 +5,4 @@
 Демо игр:
 <a href="https://asciinema.org/a/kSBg0JDcUdy3HatpSJ7MGqfpt"></a> - brain-even
 <a href="https://asciinema.org/a/tGbE7833i1zOJnlYJI8jOve0N"></a> - brain-calc
+<a href="https://asciinema.org/a/obeA12iA17KkUhnXXfuexDuDK"></a> - brain-gcd
